@@ -1,6 +1,6 @@
 # 图的定义
 
-![图片来自网络，侵权删除](/assets/graph.jpeg)
+![图片来自网络，侵权删除](/chapter6/assets/graph.jpeg)
 
 图是一系列顶点和顶点之间的边组成的集合。
 
